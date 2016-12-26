@@ -1,0 +1,23 @@
+{
+  "name": "jkom-micro-service-sdk-nodejs",
+  "version": "1.0.0",
+  "description": "making invoking more easy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkom-cloud/jkom-micro-service-sdk-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkom-cloud/jkom-micro-service-sdk-nodejs/issues"
+  },
+  "homepage": "https://github.com/jkom-cloud/jkom-micro-service-sdk-nodejs#readme",
+  "dependencies": {
+    "request": "^2.79.0"
+  }
+}
