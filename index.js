@@ -1,4 +1,4 @@
 module.exports = {
   log: require("./lib/log"),
-  push: require("./push")
+  push: require("./lib/push")
 };
